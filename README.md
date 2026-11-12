@@ -1,2 +1,33 @@
-# aws-three-tier-architecture
-Designed and deployed a scalable AWS 3-Tier Web Architecture using EC2, Load Balancers, Databases, and Networking best practices.
+# AWS 3-Tier Architecture
+
+## Overview
+
+Designed and deployed a scalable three-tier web application architecture on AWS.
+
+## Architecture Diagram
+
+Coming Soon
+
+## AWS Services Used
+
+- Amazon EC2
+- Application Load Balancer
+- Amazon RDS
+- Amazon VPC
+- Security Groups
+- Internet Gateway
+
+## Repository Structure
+
+```text
+aws-three-tier-architecture
+│
+├── README.md
+├── images
+├── documentation
+└── configurations
+```
+
+## Status
+
+🚧 Repository under development
