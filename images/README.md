@@ -1,3 +1,3 @@
-# Images
+## Architecture Screenshot
 
-This folder contains project architecture diagrams and deployment screenshots.
+images/architecture-overview.png
