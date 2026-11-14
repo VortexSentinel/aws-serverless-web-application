@@ -295,7 +295,18 @@ This architecturelivery
 
 This project was originally completed as part of the NextWork Cloud Engineering learning path.
 
-To showcase practical cloud engineering skills, the project repository was expanded with professional documentation, architecture diagrams, implementation details, security considerations, screenshots, and lessons learned beyond the original project deliverables.
+To showcase practical cloud engineering skills, this repository was expanded with:
+
+- Professional documentation
+- Architecture diagrams
+- Implementation details
+- Security considerations
+- Project walkthroughs
+- Screenshots
+- Lessons learned
+
+These additions go beyond the original project deliverables and better demonstrate real-world AWS cloud engineering practices.
+
 ---
 
 # Project Status
